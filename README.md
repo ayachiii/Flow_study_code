@@ -24,10 +24,15 @@ LF,HFはどの値をとってるのかわからない
 csvの一人分を全部揃わせること
 
 今足りないもの(last yearの中で)
+
 ・ECG:kumakura_HRV.csv
+
 ・PLIdata:mean_PLI_kumakura.csv
+
 ・HRV_and_PLI.csv              (←HRV、PLI、アンケート、kubios_HRVをつなげること)
+
 ・kubios_HRV.csv
+
 ・qustionnaire.csv
 
 
