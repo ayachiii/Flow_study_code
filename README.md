@@ -29,7 +29,7 @@ csvの一人分を全部揃わせること
 
 今足りないもの(last yearの中で)
 
-・export_HRV_parameters自作.ipynbの前処理、ノイズ処理にrrのcsvを使うのでは？という疑問。アップロードした前処理のファイルが使えないか模索する。
+・export_HRV_parameters自作.ipynbの前処理、ノイズ処理にrrのcsvを使うのでは？という疑問。アップロードした前処理のファイルが使えないか模索する。後で。余力あったら。
 
 ・PLIdata:mean_PLI_kumakura.csv
 
