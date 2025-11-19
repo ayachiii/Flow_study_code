@@ -30,6 +30,11 @@ SDSD,PNN20,PNN50がどこに書いてあるのかわからない。と思った�
 Kubios_HRV.csvのkubios_lf,kubios_hf,kubios_lf/hfは手動のような気がする。手動でいける。
 kubiosをインポートした後、.csvの方を開いて、kubios_lfにはFrequency-Domain ResultsのLF(ms^2),kubios_hfにはHF(ms^2),kubios_lf/hfにはLF/HF ratio:を記入する。
 
+# 全体の処理
+
+HRV,PLI,アンケート,kubios_HRVの結合はconcat_HRV_PLI_Qでできそうだが、正規化、標準化をするコードがどこにあるのかわからない。それを探す。正規化、標準化ができると、focus_on_subjectのグラフが書けるようになる。
+
+
 # 次の目標　
 csvの一人分を全部揃わせること
 
@@ -39,7 +44,7 @@ csvの一人分を全部揃わせること
 
 ・HRV_and_PLI.csv              (←HRV、PLI、アンケート、kubios_HRVをつなげること)
 
-HRV,PLI,アンケート,kubios_HRVの結合はconcat_HRV_PLI_Qでできそうだが、正規化、標準化をするコードがどこにあるのかわからない。それを探す。
+HRV,PLI,アンケート,kubios_HRVの結合はconcat_HRV_PLI_Qでできそうだが、正規化、標準化をするコードがどこにあるのかわからない。それを探す。正規化、標準化ができると、focus_on_subjectのグラフが書けるようになる。
 
 
 
