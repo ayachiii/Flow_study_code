@@ -38,15 +38,12 @@ concat_HRV_PLI_Q自作.ipynbで、四つのデータの結合と標準化、正�
 
 
 # 次の目標　
-csvの一人分を全部揃わせること
 
 今足りないもの(last yearの中で)
 
 ・export_HRV_parameters自作.ipynbの前処理、ノイズ処理にrrのcsvを使うのでは？という疑問。アップロードした前処理のファイルが使えないか模索する。後で。余力あったら。
 
-・HRV_and_PLI.csv              (←HRV、PLI、アンケート、kubios_HRVをつなげること)
-
-HRV,PLI,アンケート,kubios_HRVの結合はconcat_HRV_PLI_Qでできそうだが、正規化、標準化をするコードがどこにあるのかわからない。それを探す。正規化、標準化ができると、focus_on_subjectのグラフが書けるようになる。
+・focus_on_subjectのグラフが書けるようになる。
 
 
 
